@@ -1,0 +1,13 @@
+C:\Users\greic\Desktop\Praticando\AbstractFactory\Itarator\bin\Debug\netcoreapp3.1\Itarator.exe
+C:\Users\greic\Desktop\Praticando\AbstractFactory\Itarator\bin\Debug\netcoreapp3.1\Itarator.deps.json
+C:\Users\greic\Desktop\Praticando\AbstractFactory\Itarator\bin\Debug\netcoreapp3.1\Itarator.runtimeconfig.json
+C:\Users\greic\Desktop\Praticando\AbstractFactory\Itarator\bin\Debug\netcoreapp3.1\Itarator.runtimeconfig.dev.json
+C:\Users\greic\Desktop\Praticando\AbstractFactory\Itarator\bin\Debug\netcoreapp3.1\Itarator.dll
+C:\Users\greic\Desktop\Praticando\AbstractFactory\Itarator\bin\Debug\netcoreapp3.1\Itarator.pdb
+C:\Users\greic\Desktop\Praticando\AbstractFactory\Itarator\obj\Debug\netcoreapp3.1\Itarator.csprojAssemblyReference.cache
+C:\Users\greic\Desktop\Praticando\AbstractFactory\Itarator\obj\Debug\netcoreapp3.1\Itarator.AssemblyInfoInputs.cache
+C:\Users\greic\Desktop\Praticando\AbstractFactory\Itarator\obj\Debug\netcoreapp3.1\Itarator.AssemblyInfo.cs
+C:\Users\greic\Desktop\Praticando\AbstractFactory\Itarator\obj\Debug\netcoreapp3.1\Itarator.csproj.CoreCompileInputs.cache
+C:\Users\greic\Desktop\Praticando\AbstractFactory\Itarator\obj\Debug\netcoreapp3.1\Itarator.dll
+C:\Users\greic\Desktop\Praticando\AbstractFactory\Itarator\obj\Debug\netcoreapp3.1\Itarator.pdb
+C:\Users\greic\Desktop\Praticando\AbstractFactory\Itarator\obj\Debug\netcoreapp3.1\Itarator.genruntimeconfig.cache
